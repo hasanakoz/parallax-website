@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clarusway-top{
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-image:url("/img/bg.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+
+.clarusway{
+    border: 1px solid black;
+    margin: auto;
+    width: 350px;
+    height: 70px;
+    font-weight: 50;
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: 8px solid rgba(128, 0, 128, 0.963);
+    outline-offset: 15px;
+    background-color: rgba(6, 6, 6, 0.976);
+    color: white;
+    padding: 10px;
+    padding-top: 25px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
+    top: 220px;
+    letter-spacing: 8px;
+}
+
+article{
+    height: 21rem;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 0;
+    text-align: center;
+    background-color:rgba(234, 232, 232, 0.505) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    line-height: 30px;
+    color: rgb(96, 94, 94);
+}
+
+.clarusway2{
+    /* border: 2px solid red; */
+    width: 100vw;
+    height: 70vh;
+    background-image: url("/img/bg2.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.clarusway2 img{
+    margin: auto;
+    width: 250px;
+    height: 50px;
+    display: block;
+    position: relative;
+    top: 200px;
+    
+}
+
+.aws{
+    height: 16rem;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: #282e34 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.reinvent{
+    height: 80vh;
+    width: 100vw;
+    background-image: url("/img/bg3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.7;
+}
+.reinvent h1{
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+    outline: 7px solid rgba(128, 0, 128, 0.963);
+    outline-offset: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto;
+    width: 200px;
+}
+
+.data{
+    height: 15rem;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 0;
+    text-align: center;
+    background-color:rgba(234, 232, 232, 0.505) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    line-height: 30px;
+    color: rgb(96, 94, 94);
+}
+.dataspan{
+    font-weight: 500;
+}
+
+
+
+
