@@ -89,25 +89,23 @@ article h2 {
   background-attachment: fixed;
   background-size: cover;
   opacity: 0.7;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  display: flex;
 }
 
 .reinvent h1 {
   color: white;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 100;
-  font-size: 40px;
-  letter-spacing: 5px;
-  position: relative;
-  top: 200px;
-  margin-bottom: 5px;
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
   background-color: black;
   text-align: center;
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px;
+  padding: 1rem;
   outline: 0.4rem inset rgba(128, 0, 128, 0.963);
   outline-offset: 0.2rem;
 }
@@ -190,13 +188,13 @@ article h2 {
   display: flex;
 }
 
-.last h1 {
+.last1 {
   color: white;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 100;
-  font-size: 40px;
+  font-size: 3rem;
   letter-spacing: 5px;
   margin-bottom: 5px;
   background-color: black;
@@ -204,7 +202,8 @@ article h2 {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px;
+  padding: 2rem;
   outline: 0.4rem inset rgba(128, 0, 128, 0.963);
   outline-offset: 0.2rem;
+  line-height: 3rem;
 }
